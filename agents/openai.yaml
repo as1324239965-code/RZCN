@@ -1,0 +1,6 @@
+interface:
+  display_name: "RZCN"
+  short_description: "制作与复核软著程序及文档鉴别材料"
+  default_prompt: "Use $rzcn to follow its fact-freeze, isolated-copy, desensitize, paginate, full-audit workflow and prepare a complete software copyright filing package from the current project."
+policy:
+  allow_implicit_invocation: true
