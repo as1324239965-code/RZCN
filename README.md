@@ -88,3 +88,9 @@ RZCN must not:
 - present a zero-result sensitive scan as a legal conclusion.
 
 RZCN 禁止修改正式项目源码、虚构开发或维护记录、故意降低代码质量，以及把敏感扫描零命中表述为法律结论。
+
+## License / 许可证
+
+This project is open source under the [MIT License](LICENSE).
+
+本项目采用 [MIT License](LICENSE) 开源。
